@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="ZetaBot" src="https://cdn.discordapp.com/attachments/935235554415628302/935246045569511474/Frame_1889.png">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="ZetaBot" src="https://cdn.discordapp.com/attachments/826802756739137546/829046002174525470/circle-cropped_7.png">  
 
 # Wavys
 
@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://paypal.me/YankeeExe)
 
 
-> Ce bot est le bot officiel du serveur Café des Devs. Wavys est un bot Discord codé en Python avec [Nextcord](https://discord.js.org) par Yankee et HarganFire
+> Ce bot est le bot officiel du serveur Café des Devs. Wavys est un bot Discord codé en Python avec [Nextcord](https://nextcord.readthedocs.io/en/latest/index.html) par Yankee et HarganFire
 ## Informations
 
 ### Bot complet
